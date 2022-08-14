@@ -1,4 +1,4 @@
-flask==0.10.1
+flask==1.0.0
 numpy==1.19
 pandas==1.0.4
 requests==2.22.0
